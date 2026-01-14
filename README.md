@@ -38,5 +38,3 @@ This project analyzes MoMo's top-up service data for the year 2020. It involves 
 - **Targeted Marketing:** Focused on the **Vinaphone** user base, as it generated the highest average profit.
 - **User Retention:** Noted that while new user growth was declining, repeat transactions from existing users were low. Recommended implementing loyalty programs and improving after-service policies.
 
-## How to Run the Project
-1. **Install Required Libraries**:
